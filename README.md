@@ -5,7 +5,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/yahyahafid/bank-customer-churn-prediction-end-to-end-ml-pip)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit]([https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/](https://bank-churn-prediction-cl7fn45pcw4pzl3rwwrkng.streamlit.app/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **A production-ready machine learning pipeline to predict which bank customers are likely to churn - enabling proactive retention strategies and reducing revenue loss.**
@@ -243,6 +243,8 @@ Tangier, Morocco 🇲🇦
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-yahyahafid-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yahyahafid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Hafid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-h-b21805196/)
+[![Streamlit]([https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/](https://bank-churn-prediction-cl7fn45pcw4pzl3rwwrkng.streamlit.app/))
+
 
 *If you found this project useful, consider leaving a ⭐ on the repo and an upvote on the Kaggle notebook!*
 
