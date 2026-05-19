@@ -153,7 +153,7 @@ pip install -r requirements.txt
 
 ## How to Run
 
-### Option A — Run Locally
+### Option A : Run Locally
 
 ```bash
 # 1. Clone the repo
@@ -172,13 +172,13 @@ streamlit run app.py
 
 App opens at **http://localhost:8501**
 
-### Option B — Run on Kaggle (No Setup Required)
+### Option B : Run on Kaggle (No Setup Required)
 
 Click the badge below to open the full notebook in Kaggle — zero installation needed:
 
 [![Open in Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/yahyahafid/bank-customer-churn-prediction-end-to-end-ml-pip)
 
-### Option C — Run on Google Colab
+### Option C : Run on Google Colab
 
 ```
 https://colab.research.google.com/github/yahyahafid/bank-churn-prediction/blob/main/notebooks/Analysis.ipynb
@@ -212,12 +212,12 @@ All figures are saved to `/figures/` and models to `/models/` after a full noteb
 
 Key visualisations produced:
 
-- **Churn Distribution** — overall and by key features
-- **Correlation Heatmap** — feature relationships
-- **Age & Balance vs Churn** — distribution comparison
-- **ROC Curve** — model comparison across all classifiers
-- **Confusion Matrix** — LightGBM final evaluation
-- **Feature Importance Chart** — top drivers of churn
+- **Churn Distribution** : overall and by key features
+- **Correlation Heatmap** : feature relationships
+- **Age & Balance vs Churn** : distribution comparison
+- **ROC Curve** :  model comparison across all classifiers
+- **Confusion Matrix** : LightGBM final evaluation
+- **Feature Importance Chart** : top drivers of churn
 
 ----
 
