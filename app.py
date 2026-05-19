@@ -13,10 +13,13 @@ st.set_page_config(
 )
 
 # ── Load model & scaler ───────────────────────────────────────────────────────
+import os
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 @st.cache_resource
 def load_artifacts():
-    model  = joblib.load('best_model_classifier.pkl')
-    scaler = joblib.load('scaler.pkl')
+    model  = joblib.load(os.path.join(BASE_DIR, 'best_model_classifier.pkl'))
+    scaler = joblib.load(os.path.join(BASE_DIR, 'scaler.pkl'))
     return model, scaler
 
 model, scaler = load_artifacts()
