@@ -8,7 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-**A production-ready machine learning pipeline to predict which bank customers are likely to churn — enabling proactive retention strategies and reducing revenue loss.**
+**A production-ready machine learning pipeline to predict which bank customers are likely to churn - enabling proactive retention strategies and reducing revenue loss.**
 
 </div>
 
