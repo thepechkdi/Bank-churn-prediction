@@ -194,7 +194,7 @@ https://colab.research.google.com/github/yahyahafid/bank-churn-prediction/blob/m
 |-------|-------------|
 | Logistic Regression | Baseline |
 | K-Nearest Neighbors | Moderate |
-| **LightGBM** ✅ | **Best — Highest F1 & ROC-AUC** |
+| **LightGBM** ✅ | **Best Highest F1 & ROC-AUC** |
 
 ### Key Insights from EDA
 
