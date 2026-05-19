@@ -12,13 +12,13 @@
 
 </div>
 
----
+----
 
 ## Abstract
 
 Customer churn remains one of the most costly challenges in retail banking. Acquiring a new customer costs **5–7× more** than retaining an existing one, making early identification of at-risk customers a high-value business objective. This project delivers a rigorous, end-to-end machine learning solution built on 10,000 real customer records. Using exploratory data analysis, feature engineering, SMOTE-based class balancing, and gradient boosting, the pipeline identifies the key demographic and behavioral drivers of churn — geography, age, product usage, and membership activity — and produces a deployable LightGBM classifier with an interactive Streamlit web application for real-time prediction.
 
----
+----
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ Customer churn remains one of the most costly challenges in retail banking. Acqu
 9. [License](#license)
 10. [Author](#author)
 
----
+----
 
 ## Project Overview
 
@@ -48,7 +48,7 @@ Customer churn remains one of the most costly challenges in retail banking. Acqu
 | **Tools**       | Python, Scikit-learn, LightGBM, imbalanced-learn, Streamlit         |
 | **Notebook**    | [View on Kaggle](https://www.kaggle.com/code/yahyahafid/bank-customer-churn-prediction-end-to-end-ml-pip) |
 
----
+----
 
 ## Project Structure
 
@@ -70,7 +70,7 @@ bank-churn-prediction/
 └── README.md
 ```
 
----
+----
 
 ## Methodology
 
@@ -88,7 +88,7 @@ The pipeline is structured into nine analytical and engineering modules:
 | **8. Hyperparameter Tuning** | Grid/random search to optimize LightGBM performance |
 | **9. Deployment** | joblib model export + Streamlit app with real-time churn risk gauge |
 
----
+----
 
 ## Dataset
 
@@ -116,7 +116,7 @@ The pipeline is structured into nine analytical and engineering modules:
 | `EstimatedSalary` | Numerical | Explanatory |
 | `Exited` | Binary | **Target** |
 
----
+----
 
 ## Requirements & Installation
 
@@ -149,7 +149,7 @@ pip install -r requirements.txt
 | `plotly` | Interactive charts in the app |
 | `joblib` | Model serialization |
 
----
+----
 
 ## How to Run
 
@@ -184,7 +184,7 @@ Click the badge below to open the full notebook in Kaggle — zero installation 
 https://colab.research.google.com/github/yahyahafid/bank-churn-prediction/blob/main/notebooks/Analysis.ipynb
 ```
 
----
+----
 
 ## Key Results
 
@@ -204,7 +204,7 @@ https://colab.research.google.com/github/yahyahafid/bank-churn-prediction/blob/m
 -  **Inactive members** churn regardless of their account balance or salary
 -  High-balance customers who are inactive represent the highest-risk segment
 
----
+----
 
 ## Outputs & Figures
 
@@ -219,7 +219,7 @@ Key visualisations produced:
 - **Confusion Matrix** — LightGBM final evaluation
 - **Feature Importance Chart** — top drivers of churn
 
----
+----
 
 ## License
 
@@ -237,8 +237,8 @@ Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-**Yahya Hafid**
-*Data Scientist & AI/ML Engineer*
+**Yahya Hafid**  
+*Data Scientist & AI/ML Engineer*  
 Tangier, Morocco 🇲🇦
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-yahyahafid-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yahyahafid)
