@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Prediction — End-to-End ML Pipeline
+# 🏦 Bank Customer Churn Prediction  End-to-End ML Pipeline
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/yahyahafid/bank-customer-churn-prediction-end-to-end-ml-pip)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Hafid-blue?logo=linkedin)](https://www.linkedin.com/in/yahya-h-b21805196/)
