@@ -1,4 +1,4 @@
-# 🏦 Bank Customer Churn Prediction — End-to-End ML Pipeline
+# 🏦 Bank Customer Churn Prediction  End-to-End ML Pipeline
 
 <div align="center">
 
@@ -62,7 +62,6 @@ bank-churn-prediction/
 │   ├── best_model_classifier.pkl       # Saved LightGBM model
 │   └── scaler.pkl                      # Saved StandardScaler
 │
-├── 📂 figures/                         # Generated plots and charts
 │
 ├── app.py                              # Streamlit web application
 ├── requirements.txt                    # Python dependencies
@@ -199,11 +198,11 @@ https://colab.research.google.com/github/yahyahafid/bank-churn-prediction/blob/m
 
 ### Key Insights from EDA
 
-- 📍 **German customers** churn at 2× the rate of French and Spanish customers
-- 👴 **Customers aged 45–60** show significantly higher churn probability
-- 📦 Customers with **only 1 product** churn far more than those with 2+
-- 💤 **Inactive members** churn regardless of their account balance or salary
-- 💰 High-balance customers who are inactive represent the highest-risk segment
+-  **German customers** churn at 2× the rate of French and Spanish customers
+-  **Customers aged 45–60** show significantly higher churn probability
+-  Customers with **only 1 product** churn far more than those with 2+
+-  **Inactive members** churn regardless of their account balance or salary
+-  High-balance customers who are inactive represent the highest-risk segment
 
 ---
 
@@ -240,7 +239,7 @@ Free to use, modify, and distribute with attribution.
 
 **Yahya Hafid**
 *Data Scientist & AI/ML Engineer*
-Casablanca, Morocco 🇲🇦
+Tangier, Morocco 🇲🇦
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-yahyahafid-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/yahyahafid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yahya%20Hafid-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-h-b21805196/)
